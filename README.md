@@ -83,7 +83,9 @@ project-root/
 │   ├── segment_egg.py        # Segmentation implementation (Segmentasyon uygulaması)
 │   ├── segment_trying.py     # Experimental segmentation code (Deneysel segmentasyon kodu)
 │   └── image_rename.py       # Dataset organization utility (Veri seti düzenleme aracı)
-|   └── README_counting.md  
+|   └── README_counting.md    # Readme for counting.py (Counting.py Readme'si)
+|   └── egg_video/
+|      ├── egg_video.mp4      # Main video
 ├── README.md
 
 ```
