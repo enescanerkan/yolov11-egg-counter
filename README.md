@@ -127,7 +127,7 @@ The system employs three-step verification (Sistem üç adımlı doğrulama kull
 
 ```bash
 # Clone the repository (Depoyu klonlayın)
-git clone [https://github.com/enescanerkan/EggCounter-YOLOv11]
+git clone [https://github.com/enescanerkan/yolov11-egg-counter]
 
 # Install dependencies (Bağımlılıkları yükleyin)
 pip install opencv-python
