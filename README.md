@@ -14,7 +14,7 @@ This project implements an automated system for detecting, segmenting, and count
 ![etiket](https://github.com/user-attachments/assets/50135c91-5237-4368-ad0f-0bcad874da67)
 
 
-## Videos:(Not: Video kaliteleri Github'a yüklemek için düşürüldü.)
+## Videos:
 
 https://github.com/user-attachments/assets/cfe99aea-c888-482f-a31e-354be1ddce43 
 
